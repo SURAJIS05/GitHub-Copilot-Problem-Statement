@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f1f1;
+  }
+  
+  .container {
+    display: flex;
+  }
+  
+  .transaction-form {
+    flex: 1;
+    padding: 20px;
+    background-color: #fff;
+    margin-right: 10px;
+  }
+  
+  .transaction-list {
+    flex: 1;
+    padding: 20px;
+    background-color: #fff;
+  }
+  
+  h1, h2 {
+    color: #333;
+  }
+  
+  table {
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #eee;
+  }
+  
+  button {
+    padding: 10px 20px;
+  }
+  
+  #balance {
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
